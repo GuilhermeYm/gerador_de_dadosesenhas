@@ -1,2 +1,3 @@
-Nomes
-Nacionalidades
+Nomes: escolhe e escreve aqui 
+Nacionalidades: ai você escolhe e escreve aqui 
+SP, AC, AL, AP, AM, BA, CE, ES, GO, MA, MT, MS, MG, PA, PB, PR, PI, RJ, RN, RS, RO, RR, SC, SE, TO, DF
